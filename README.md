@@ -31,11 +31,11 @@ This is useful in color pipelines, VFX workflows, or post-production processes t
 ├── look1.cc
 ├── look2.cc
 
-** How to run the script **
+## How to run the script
 
 python convert_cdl.py /path/to/your/folder
 
-** How It Works **
+## 🧠  How It Works
 
 Parses .cdl using xml.etree.ElementTree
 
